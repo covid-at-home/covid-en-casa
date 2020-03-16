@@ -1,4 +1,4 @@
-## Nivel 3 -- Postrados en la cama
+## Nivel 3 -- Postrado en la cama
 
 Todos los buenos cuidados en el Nivel 2 no han funcionado y las cosas están empeorando. No significa que hayas hecho algo malo, sólo sigue adelante. Excepto que ahora el paciente se está debilitando. A menudo está demasiado débil para salir de la cama y puede necesitar estímulos adicionales para comer y beber. 
 
