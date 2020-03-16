@@ -1,19 +1,19 @@
-## COVID-19 diary
+## COVID-19 diario
 
-We have created an example of what a diary page in your COVID diary could look like. It looks a lot like the information they keep about patients in hospitals. It may seem a bit overengineered, but it allows you to keep track of how someone is doing and then (if you need to see a doctor or go to hospital) hand over whatever data you have kept in a format that doctors like to read. Simply print one of these these for every day that the patient is sick. Since you don't want to find out you're out of printer paper in the middle of this, maybe print out 20-30 of these as part of your preparation. Don't worry if you don't have equipment to do all these measurements. (Although it is pretty cheap to get and it really doesn't hurt to have, see the [shopping page](/shopping).)
+Hemos creado un ejemplo de cómo podría ser una página de diario en su diario COVID. Se parece mucho a la información que guardan sobre los pacientes en los hospitales. Puede parecer un poco exagerado, pero te permite llevar un registro de cómo está alguien y luego (si necesitas ver a un médico o ir al hospital) entregar cualquier dato que hayas guardado en un formato que a los médicos les gusta leer. Simplemente imprima uno de estos para cada día que el paciente esté enfermo. Ya que no quieres descubrir que te has quedado sin papel de impresora en el medio de esto, tal vez imprima 20-30 de estos como parte de tu preparación. No se preocupe si no tiene equipo para hacer todas estas mediciones. (Aunque es bastante barato de conseguir y realmente no hace daño tenerlo, ver la [página de compras](/compras).)
 
-<a href="/images/covid-diary.pdf"><img style="border: 2px solid black; drop-shadow(16px 16px 10px black)" src="/images/covid-diary.png"></a>
+<a href="/images/covid-diary.pdf"><img style="border: 2px negro sólido; gota-sombra(16px 16px 10px negro)" src="/images/covid-diary.png"></a>
 
-(click the image to get the PDF to print)
+(haga clic en la imagen para obtener el PDF para imprimir)
 
 ### Starting the diary
 
-You probably want to take a look at this and keep the data in this format even if the patient is just developing symptoms. It doesn't matter if you don'f fill in most of the data or don't fill it in often, but this is actually a good time to get a feel for what - more or less - normal values look like. When the patient is in bed and possibly has other people taking care of him or her, you can take measurements a bit more often.
+Probablemente quieras echarle un vistazo a esto y mantener los datos en este formato incluso si el paciente sólo está desarrollando síntomas. No importa si rellenas la mayoría de los datos o no los rellenas a menudo, pero este es un buen momento para tener una idea de cómo son -más o menos- los valores normales. Cuando el paciente está en la cama y posiblemente tiene a otras personas que lo cuidan, se pueden tomar medidas un poco más a menudo.
 
 ### Diary procedure
 
-At the beginning of each day you fill in the information on the right. Name, date of birth, sex, and whether or not the patient was tested positive for SARS-CoV-2, the virus that causes COVID-19. First thing in the morning the patient is weighed if possible, so you can see over time if the patient is losing a lot of weight. Then every time you take measurements you note the time in the top row, and then fill in measurements in the column underneath. Anything else is noted on the right side under notes. 
+Al principio de cada día rellenas la información de la derecha. Nombre, fecha de nacimiento, sexo, y si el paciente dio positivo o no en la prueba de SARS-CoV-2, el virus que causa el COVID-19. A primera hora de la mañana se pesa al paciente si es posible, así se puede ver con el tiempo si el paciente está perdiendo mucho peso. Luego, cada vez que tomes medidas, anota el tiempo en la fila superior, y luego rellena las medidas en la columna de abajo. Cualquier otra cosa se anota en el lado derecho debajo de las notas. 
 
 ### When things get serious
 
-If the patients gets sicker and sicker, you will want to refer to the ["Level 4" chapter](/#level-4--professionals-take-over) in the main text for some basic guidance as to when to call a doctor or go to hospital. This basic guidance is just that, a guide to help you get a very very basic sense of what is "just sick" vs. "too sick to be at home". You are not a doctor. If you feel insecure, call for help.
+Si los pacientes se enferman cada vez más, es conveniente consultar el ["capítulo del nivel 4"](/#nivel-4-aspiración de los profesionales) del texto principal para obtener alguna orientación básica sobre cuándo llamar a un médico o ir al hospital. Esta guía básica es sólo eso, una guía para ayudarte a tener un sentido muy, muy básico de lo que es "sólo enfermo" vs. "demasiado enfermo para estar en casa". No eres médico. Si te sientes inseguro, pide ayuda.

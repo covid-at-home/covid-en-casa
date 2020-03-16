@@ -1,69 +1,69 @@
-## Level 3 -- Bedridden
+## Nivel 3 -- Bedridden
 
-All the good care in Level 2 has not worked and things are getting worse. Doesn't mean you did anything wrong, just keep going. Except now the patient is getting weaker. He or she is often too weak to get out of bed and may need extra encouragement to eat and drink. 
+Todos los buenos cuidados en el Nivel 2 no han funcionado y las cosas están empeorando. No significa que hayas hecho algo malo, sólo sigue adelante. Excepto que ahora el paciente se está debilitando. A menudo está demasiado débil para salir de la cama y puede necesitar estímulos adicionales para comer y beber. 
 
 ### If the patient is you
 
-This is when you start telling other people around you that you are really ill and are mostly in bed. Talk to someone you trust about how they may have to take care of you. Have this person or these people read this document. If you have people in your environment who have already had COVID-19 (something that will be increasingly common as time goes on), such people would naturally make the best caregivers as they presumably will be COVID-19-immune. Otherwise try to judge what is wisest in your circumstances. By all means do not wait with this until the very last moment, because if the disease progresses, you will get short of breath which inevitably will also affect your ability to talk and to think clearly.
+Es cuando empiezas a decir a los que te rodean que estás muy enfermo y que la mayoría de las veces estás en la cama. Habla con alguien de confianza sobre cómo puede tener que cuidarte. Haga que esta persona o estas personas lean este documento. Si en su entorno hay personas que ya han tenido COVID-19 (algo que será cada vez más común a medida que pase el tiempo), estas personas serán naturalmente los mejores cuidadores ya que presumiblemente serán inmunes a COVID-19. De lo contrario, trate de juzgar lo que es más sabio en sus circunstancias. Por supuesto, no espere hasta el último momento, porque si la enfermedad progresa, le faltará el aliento, lo que inevitablemente afectará también a su capacidad para hablar y pensar con claridad.
 
-![](/images/sick-in-bed.png)
+![](/imágenes/enfermedad en la cama.png)
 
-### In any case
+### En cualquier caso...
 
-* Stay in bed. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/images/covid-diary.pdf)). Put new sheets on the bed as often as possible and wash the old sheets at 60 degrees Celsius or warmer.
-* Ventilate the room as often as possible.
-* Drink more water! (more than 2 liters and less then 5 liters a day).
-* Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
-* Inhale more often.
+* Quédate en la cama. En este momento el descanso es muy importante. El paciente debe dormir tanto como sea posible. Al menos al principio, los pacientes podrán salir de la cama durante un tiempo limitado. Inodoro, una ducha de enjuague rápido, con un peso de una vez al día (nota en [diario](/images/covid-diary.pdf)). Ponga sábanas nuevas en la cama tan a menudo como sea posible y lave las viejas a 60 grados Celsius o más.
+* Ventila la habitación tan a menudo como sea posible.
+* ¡Bebe más agua! (más de 2 litros y menos de 5 litros al día).
+* Intenta comer alimentos ricos en vitaminas, pero también puedes tomar bebidas multivitamínicas.
+* Inhala más a menudo.
 
-At this point, read ahead for all the signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient is moving to Level 4. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without this daily bare minimum you're quickly in Level 4.
+En este punto, lea a continuación todas las señales que indican el Nivel 4. El propósito de la atención en el Nivel 3 es también monitorear al paciente más y más de cerca para captar tempranamente cualquier signo de que el paciente se está moviendo al Nivel 4. Por ejemplo: Si el paciente no es capaz de beber al menos 2 litros de líquidos al día, debe (amablemente) insistir. La deshidratación es una condición médica, y sin este mínimo diario estás rápidamente en el nivel 4.
 
-In most cases, however, the patient will improve after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient him- or herself again. Make sure the illness diary and quarantine are kept up until the patient has been completely well for a while. If you have been caring for the patient, your own two-week self-quarantine period now begins.
+En la mayoría de los casos, sin embargo, el paciente mejorará después de unos días o como máximo una semana. Sólo quédate con él. Una vez que el paciente mejore un poco, el paciente puede volver a cuidarse a sí mismo. Asegúrate de que el diario de la enfermedad y la cuarentena se mantengan hasta que el paciente haya estado completamente bien durante un tiempo. Si ha estado cuidando al paciente, su propio período de autocuarentena de dos semanas comienza ahora.
 
 ### Care work
 
-A large part of the work you are doing at this stage is care work, which may overlap with nursing but does not require specialized training. Remember that people who need help with basic self-care due to illness may be embarrassed to ask for or accept it. Be gracious. Everyone needs help sometimes. Think how to make the patient physically, mentally, and emotionally more comfortable and well; you might do this by asking yourself what you would need in their position, by watching for cues about discomfort (e.g., shivering, sweating), or by asking how you can help. 
+Una gran parte del trabajo que está haciendo en esta etapa es el trabajo de cuidado, que puede superponerse con la enfermería pero no requiere una formación especializada. Recuerde que las personas que necesitan ayuda con el autocuidado básico debido a la enfermedad pueden sentirse avergonzadas de pedirla o aceptarla. Sé amable. Todo el mundo necesita ayuda a veces. Piense en cómo hacer que el paciente se sienta más cómodo y bien física, mental y emocionalmente; puede hacerlo preguntándose a sí mismo qué necesitaría en su posición, observando los indicios de incomodidad (por ejemplo, escalofríos, sudoración) o preguntando cómo puede ayudar. 
 
-Some possibly useful behaviors include:
-* Getting at eye level and at a distance that is large enough for comfort but small enough that they do not have to strain speaking loudly to talk to you. 
-* Simple encouragement to drink and eat. (E.g., "Drink, honey.") 
-* If the patient is not drinking or eating adequately, offer alternatives. (E.g., if solid food is unappealing, what about soup, bouillon, or electrolyte solution? If hot drinks are unappealing, what about something cold, or vice-versa?) 
-* Checking that the patient is warm enough in the extremities (e.g., cold feet?) and at night. 
-* Reassure the patient that it is likely that he or she will make a full recovery. 
-* If breathing is labored, try breathing techniques (e.g., pursed lips or diaphragmatic breathing techniques) and positional changes (e.g., leaning your chest forward a little or putting your arms and head down on a table while sitting with feet flat on the floor; or sleeping on your side with a pillow between your knees, or on your back with your head elevated with a pillow or two). 
-* Keeping the illness diary (see below).
+Algunos comportamientos posiblemente útiles incluyen:
+* Poniéndose a la altura de los ojos y a una distancia lo suficientemente grande para la comodidad pero lo suficientemente pequeña para que no tengan que esforzarse en hablar en voz alta para hablar con usted. 
+* Simple estímulo para beber y comer. (Por ejemplo, "Bebe, cariño")
+* Si el paciente no está bebiendo o comiendo adecuadamente, ofrezca alternativas. (Por ejemplo, si los alimentos sólidos no son atractivos, ¿qué pasa con la sopa, el caldo o la solución electrolítica? Si las bebidas calientes no son atractivas, ¿qué tal algo frío, o viceversa?) 
+* Comprobando que el paciente está lo suficientemente caliente en las extremidades (por ejemplo, los pies fríos?) y por la noche. 
+* Asegure al paciente que es probable que se recupere totalmente. 
+* Si la respiración es dificultosa, pruebe técnicas de respiración (por ejemplo, labios fruncidos o técnicas de respiración diafragmática) y cambios de posición (por ejemplo, inclinar un poco el pecho hacia delante o poner los brazos y la cabeza sobre una mesa mientras se está sentado con los pies apoyados en el suelo; o dormir de lado con una almohada entre las rodillas, o de espaldas con la cabeza elevada con una o dos almohadas). 
+* Llevar el diario de la enfermedad (ver abajo).
 
 
 ### Illness diary
 
-As mentioned in the previous section, you might want to use this [printable form](/images/covid-diary.pdf), or make your own. 
+Como se mencionó en la sección anterior, tal vez quieras usar este [formulario imprimible](/images/covid-diary.pdf), o hacer el tuyo propio. 
 
-At this stage, watch out especially for and note symptoms that might suggest worsening. Read the next section for more detail, but these include dizziness or rapid heart rate (drink more and eat something if you can), rapid breathing (elevate head while lying down or lower it to the table while sitting up for easier breathing), and a blue tint to fingertips or lips (cyanosis - get fresh air, get warm, and check blood oxygenation if possible). Also consider using relaxation techniques to slow a rapid respiration or heart rate that may be partially due to anxiety: Listen to soothing music, check in with a friend electronically, or see if you can slow your breathing and bring down your heart rate by counting longer for forceful exhaling than for gentle inhaling. (Some people use 4-7-8 and others prefer 5-2-5 to try slowing down their inhale-hold-exhale patterns.)
+En esta etapa, esté atento especialmente a los síntomas que puedan sugerir un empeoramiento. Lea la siguiente sección para obtener más detalles, pero éstos incluyen mareos o frecuencia cardíaca rápida (beba más y coma algo si puede), respiración rápida (eleve la cabeza mientras está acostado o bájela hasta la mesa mientras está sentado para respirar más fácilmente) y un tinte azul en las puntas de los dedos o los labios (cianosis - tome aire fresco, póngase caliente y compruebe la oxigenación de la sangre si es posible). Considere también la posibilidad de utilizar técnicas de relajación para disminuir una respiración o frecuencia cardíaca rápidas que pueden deberse parcialmente a la ansiedad: Escuche música relajante, consulte a un amigo electrónicamente, o vea si puede disminuir su respiración y reducir su ritmo cardíaco contando más tiempo para la exhalación forzada que para la inhalación suave. (Algunas personas usan 4-7-8 y otras prefieren 5-2-5 para tratar de disminuir sus patrones de inhalación y exhalación).
 
-If you think the patient's condition might be worsening, your illness diary might expand to include the following: 
-- more frequent temperature readings
-- respiration rate (breaths per minute)
-- heart rate
-- onset of new confusion
+Si cree que la condición del paciente puede estar empeorando, su diario de enfermedad puede ampliarse para incluir lo siguiente: 
+- lecturas de temperatura más frecuentes
+- frecuencia respiratoria (respiraciones por minuto)
+- la frecuencia cardíaca...
+- inicio de una nueva confusión
 
-If the patient's condition seems to be worsening, skip to the next section. 
+Si el estado del paciente parece empeorar, pase a la siguiente sección. 
 
-### A typical day
+### Un día típico
 
-At this stage, a typical day might look something like this: 
+En esta etapa, un día típico podría parecerse a algo como esto: 
 
-You (or the patient) get up, weigh, and note weight in illness diary. You might also want to take your temperature first thing, before eating or drinking, especially if you are taking temperature orally - and note it in the illness diary, too. 
+Usted (o el paciente) se levanta, pesa y anota el peso en el diario de la enfermedad. También es posible que quieras tomarte la temperatura a primera hora, antes de comer o beber, especialmente si lo haces por vía oral, y anotarlo también en el diario de la enfermedad. 
 
-Then, start drinking fluids. Not too much caffeine or sugar. As much water and herbal tea as you like. Remember you want to drink at least 2 liters and up to 5 liters a day. 
+Entonces, empiece a tomar líquidos. No demasiada cafeína o azúcar. Toda el agua y el té de hierbas que quieras. Recuerda que quieres beber al menos 2 litros y hasta 5 litros al día. 
 
-Air out your home as much as possible, perhaps while the water for your morning tea or coffee is boiling.  If you have the energy (and enough sheets), consider changing your bed linens if they got sweaty / otherwise soiled. Next, have a quick shower if you're able. Staying clean can help you feel better mentally and emotionally, as well as physically. 
+Airee su casa tanto como sea posible, tal vez mientras el agua para su té o café matutino esté hirviendo.  Si tienes la energía (y suficientes sábanas), considera cambiar tus sábanas si se ensucian o sudan. A continuación, date una ducha rápida si puedes. Mantenerse limpio puede ayudarte a sentirte mejor mental y emocionalmente, así como físicamente. 
 
-Eat a small, nutritious meal (piece of fresh fruit? handful of salted nuts?) - something that sounds good to you. This is also a good time to take paracetamol (also known as acetaminophen) for fever / pain if you need it, and note the dose and time in your illness diary. 
+Come una pequeña y nutritiva comida (¿un trozo de fruta fresca? ¿un puñado de nueces saladas?) - algo que te suene bien. También es un buen momento para tomar paracetamol (también conocido como acetaminofén) para la fiebre / dolor si lo necesita, y anote la dosis y el tiempo en su diario de la enfermedad. 
 
-If that was already enough exertion, take a rest. Nap whenever you can - sleep is crucial for healing. If you're not sleepy but need to rest, then try to rest sitting up to give your lungs a better chance to drain. If you're still upright, now is a good time to steam to help your sinuses / airways open and mucus to drain. 
+Si eso ya fue suficiente esfuerzo, descanse. Duerme cuando puedas, el sueño es crucial para la curación. Si no tiene sueño pero necesita descansar, entonces intente descansar sentado para que sus pulmones tengan más posibilidades de drenar. Si todavía está en posición vertical, ahora es un buen momento para vaporizar y ayudar a que sus senos y vías respiratorias se abran y la mucosidad se drene. 
 
-Keep drinking throughout the day. Some people find it helpful to empty and refill a liter bottle of water or a teapot that holds approximately a liter, so that it's easier to keep track of roughly how much you have drunk. This also makes it easier to keep water by the sofa or bed while you are resting. 
+Sigue bebiendo durante todo el día. Algunas personas encuentran útil vaciar y rellenar una botella de agua de un litro o una tetera de aproximadamente un litro, para que sea más fácil llevar un registro de aproximadamente cuánto has bebido. Esto también hace más fácil mantener el agua junto al sofá o la cama mientras se descansa. 
 
-Throughout the day, check in with yourself about fatigue (sleep as much as possible), hunger (eat small, nutritious meals), thirst (drink whenever you feel like it), and temperature (take care to keep warm enough). If you feel up to it, and only if you feel up to it, move (e.g., go for a short walk as long as it's still permitted where you are, or get up and dance to a favorite song). 
+A lo largo del día, comprueba contigo mismo la fatiga (duerme tanto como sea posible), el hambre (come comidas pequeñas y nutritivas), la sed (bebe cuando te apetezca) y la temperatura (ten cuidado de mantenerte lo suficientemente caliente). Si te sientes con ganas, y sólo si te sientes con ganas, muévete (por ejemplo, ve a dar un paseo corto siempre que esté permitido donde estás, o levántate y baila una canción favorita). 
 
-Finally, you want to be alert to signs that your condition may be worsening and you may need more care. So after taking basic care of yourself, then check in with other people around you who know that you are really ill. Let them know how you are doing - and if you need help, ask. Especially let someone know if you start experiencing more severe symptoms (see the next section). 
+Por último, debe estar alerta a las señales de que su condición puede estar empeorando y puede necesitar más cuidados. Así que después de tomar los cuidados básicos de ti mismo, entonces comprueba con otras personas a tu alrededor que sepan que estás realmente enfermo. Hazles saber cómo estás y si necesitas ayuda, pídela. Sobre todo, avísele a alguien si comienza a experimentar síntomas más graves (ver la siguiente sección). 

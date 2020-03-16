@@ -1,71 +1,71 @@
-## Level 1 -- Healthy
+## Nivel 1 -- Saludable
 
 ### Don't Get Infected
 
-Where possible, follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
+Cuando sea posible, siga las instrucciones de las autoridades. Esto incluye algunas de las pautas ya conocidas para el distanciamiento social:
 
-* Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance.
-* Your eyes, nose, and mouth are possible ways for the virus to enter your body. Wash your hands before touching your face. Don't touch your face while outside.
-* Wash your hands vigorously with soap and water as often as possible, including as soon as you come home and before eating. Use soap and water, not hand sanitizer, when possible: It is more [reliable](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
-* Change your clothes when you get home as well. 
-* Regularly sterilize doorknobs, table surfaces, keyboards, and other places people frequently touch.
-* Cough and sneeze into your elbow, not into your hand or unprotected. 
-* Work from home when possible.
-* Use alternatives to in-person meetings (e.g., video or voice calls) when possible. 
-* Avoid crowds and unnecessary travel. If you must go shopping, do it when stores are less likely to be busy. If you must be in a crowd, try to keep your personal distance from others and move away from anyone who seems to be ill (e.g., is coughing or sneezing). 
-* Instead of taking public transit, walk or bike wherever you can. If you must take public transit, again keep your personal distance from others and move away from anyone who is ill. 
-* Instead of going to restaurants, cook and eat at home. 
-* Instead of having food or groceries delivered or delivering them to another person at home with direct contact, arrange to have them left or to leave them outside the door. 
-* Instead of meeting friends for a coffee or a drink, have a video-chat or coordinate a walk to the grocery store while keeping your safe distance of one meter or a little over 3 feet apart. 
-* Instead of exercising inside (e.g., at the gym), go outside for a walk or run if weather permits, while keeping your distance from other people. 
-* Follow any additional government / public health authority advice, including the eventual advice to stay indoors when that becomes applicable for where you are.
-* Know the facts: 
-  * COVID-19 is real. 
-  * It's a virus from nature that mutated to infect human hosts after starting in animals. 
-  * It seems to be about twice as infectious and to cause far more pneumonia, other serious disease and deaths than the seasonal influenza virus (flu). It's also worse than the flu because the world population so far lacks immunity. New diseases are more dangerous, because their infection rates can grow incredibly rapidly (even having exponential growth). Such rapid transmission of a new disease can swiftly overwhelm even outstanding health-care systems, making it impossible for everyone who needs care to access it - and in turn contributing to more severe disease and death. 
-  * So it is time now to change our way of life (for now) to address the very real threat this pandemic poses to our world. 
-  * Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is vital. Where there are discrepancies, trust reputable sources such as:
-     * [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
-     * [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
-     * [Robert Koch Institute](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
-     * [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) (EU) 
+* Cambia tus saludos. En lugar de un apretón de manos, un abrazo o un beso, intenta saludar o hacer una reverencia a distancia.
+* Tus ojos, nariz y boca son posibles vías para que el virus entre en tu cuerpo. Lávate las manos antes de tocarte la cara. No te toques la cara mientras estás fuera.
+* Lávese las manos vigorosamente con agua y jabón tan a menudo como sea posible, incluso tan pronto como llegue a casa y antes de comer. Use agua y jabón, no desinfectante de manos, cuando sea posible: Es más [fiable](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
+* Cámbiate de ropa cuando llegues a casa también. 
+* Esterilizar regularmente los pomos de las puertas, las superficies de las mesas, los teclados y otros lugares que la gente toca con frecuencia.
+* Tose y estornuda en tu codo, no en tu mano o desprotegido. 
+* Trabaja desde casa cuando sea posible.
+* Utilice alternativas a las reuniones en persona (por ejemplo, video o llamadas de voz) cuando sea posible. 
+* Evita las multitudes y los viajes innecesarios. Si tienes que ir de compras, hazlo cuando las tiendas estén menos ocupadas. Si debe estar entre una multitud, trate de mantener su distancia personal de los demás y aléjese de cualquier persona que parezca estar enferma (por ejemplo, que esté tosiendo o estornudando). 
+* En lugar de tomar el transporte público, camina o anda en bicicleta donde puedas. Si debe tomar el transporte público, nuevamente mantenga su distancia personal de los demás y aléjese de cualquier persona que esté enferma. 
+* En lugar de ir a restaurantes, cocine y coma en casa. 
+* En lugar de hacer que se entreguen alimentos o comestibles o entregarlos a otra persona en casa con contacto directo, haga que los dejen o que los dejen fuera de la puerta. 
+* En lugar de reunirse con amigos para tomar un café o una bebida, tenga un video-chat o coordine una caminata al supermercado manteniendo su distancia de seguridad de un metro o un poco más de 3 pies de distancia. 
+* En lugar de hacer ejercicio en el interior (por ejemplo, en el gimnasio), salga a caminar o a correr si el clima lo permite, mientras mantiene su distancia de otras personas. 
+* Sigue cualquier consejo adicional del gobierno / autoridad de salud pública, incluyendo el eventual consejo de permanecer en casa cuando sea aplicable para donde estés.
+* Conoce los hechos: 
+  * COVID-19 es real. 
+  * Es un virus de la naturaleza que mutó para infectar a los huéspedes humanos después de empezar en los animales. 
+  * Parece ser aproximadamente el doble de infeccioso y causar mucha más neumonía, otras enfermedades graves y muertes que el virus de la gripe estacional (influenza). También es peor que la gripe porque la población mundial hasta ahora carece de inmunidad. Las nuevas enfermedades son más peligrosas, porque sus tasas de infección pueden crecer increíblemente rápido (incluso teniendo un crecimiento exponencial). Esa rápida transmisión de una nueva enfermedad puede abrumar rápidamente incluso a los sistemas de atención de la salud más destacados, haciendo imposible el acceso a ella de todas las personas que necesitan atención, lo que a su vez contribuye a que la enfermedad sea más grave y a que se produzcan muertes. 
+  * Así que es hora de cambiar nuestro modo de vida (por ahora) para hacer frente a la muy real amenaza que esta pandemia supone para nuestro mundo. 
+  * Algunos de los autores de este sitio web no son conocidos como grandes fanáticos del gobierno y la autoridad, pero en este momento la confianza en las autoridades de salud pública es vital. En caso de discrepancias, confíe en fuentes fiables como:
+     * [Organización Mundial de la Salud](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (Internacional)
+     * [Centros para el Control de Enfermedades](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (EE.UU.)
+     * [Instituto Robert Koch](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Alemania)
+     * [Centro Europeo para la Prevención y el Control de las Enfermedades] (https://www.ecdc.europa.eu/en) (UE)
 
-Remember that there is no difference in potential infectiousness between friends and strangers. There is no race, ethnic group, or nationality that is innately more likely to get or transmit the virus than another. Try to help others when you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contact with other people than others. Slowing the spread is never absolute, but over all of society, our efforts still work when everyone does what they can, within their limits.
+Recuerde que no hay diferencia en la infecciosidad potencial entre amigos y extraños. No hay ninguna raza, grupo étnico o nacionalidad que sea innatamente más probable que contraiga o transmita el virus que otra. Intenta ayudar a los demás cuando puedas sin estar en contacto con grandes grupos de personas innecesariamente. Hay obvias compensaciones aquí que cada uno tiene que sopesar por sí mismo. Algunas personas necesitarán tener más contacto con otras personas que otras. La disminución de la propagación nunca es absoluta, pero en toda la sociedad, nuestros esfuerzos siguen funcionando cuando cada uno hace lo que puede, dentro de sus límites.
 
 ### Stay Healthy
 
 ![](/images/situps.png)
 
-On top of this, you can do things to stay as healthy as possible:
+Además, puedes hacer cosas para mantenerte lo más saludable posible:
 
-* Ventilate your rooms frequently.
-* Eat appropriate amounts of nutrient-rich, healthy food. Include at least some carbohydrates (e.g., bread, potatoes, pasta, rice, etc). Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. 
-* Drink enough fluids, mostly water.
-* Get regular exercise. If it is recommended or required to stay indoors, find ways to get moving at home: Dance to favorite songs with friends over video-chat, join online yoga or other exercise classes, or try simple core bodyweight exercises like push-ups, sit-ups, and squats combined with simple stationary aerobic exercises like jumping jacks, hula hooping, and skipping. 
-* If you smoke, stop smoking.
-* Avoid heavy drinking and other drug use, as alcohol and other drugs tend to suppress immune function.
-* If you want to do more after first covering these essentials, then consider [complementary medicine options](/complementary) to improve immunity, prevent and treat upper respiratory and / or viral infections, and the like. There are a number of possibly useful options, but keep in mind that the evidence so far is specific to different contexts. A lot of snake-oil salesmen are going to make a lot of money off of panic here without offering actual help. Don't fall for them. 
+* Ventile sus habitaciones frecuentemente.
+* Coma cantidades apropiadas de alimentos saludables y ricos en nutrientes. Incluya al menos algunos carbohidratos (por ejemplo, pan, patatas, pasta, arroz, etc.). Las vitaminas D ("la vitamina del sol") y C pueden ser especialmente útiles para prevenir o mitigar los efectos de las infecciones respiratorias. 
+* Bebe suficientes líquidos, sobre todo agua.
+* Haz ejercicio regularmente. Si se recomienda o se requiere permanecer en el interior, encontrar maneras de moverse en casa: Baile con sus amigos sus canciones favoritas en un video-chat, únase a clases de yoga en línea u otras clases de ejercicios, o pruebe ejercicios simples de peso corporal como flexiones de brazos, abdominales y sentadillas combinados con simples ejercicios aeróbicos estacionarios como saltos de tijera, hula hooping y saltos. 
+* Si fumas, deja de fumar.
+* Evite el consumo de alcohol y otras drogas, ya que el alcohol y otras drogas tienden a suprimir la función inmunológica.
+* Si quieres hacer más después de cubrir primero estos aspectos esenciales, entonces considera [opciones de medicina complementaria](/complementaria) para mejorar la inmunidad, prevenir y tratar infecciones respiratorias superiores y/o virales, y similares. Hay varias opciones posiblemente útiles, pero hay que tener en cuenta que las pruebas hasta ahora son específicas de los diferentes contextos. Muchos vendedores de aceite de serpiente van a hacer mucho dinero con el pánico aquí sin ofrecer ayuda real. No te enamores de ellos. 
 
 ### Prepare
 
-And on top of that, you can prepare so that you are familiar with the things that you will need to do when disease comes knocking. Read the rest of this guide. It is statistically unlikely anyone in your household will develop life-threatening complications, and hopefully there will be plenty of medical care for everyone. It doesn't hurt to be a tiny bit more ready for the worst-case scenario. But remember at the same time that there is no reason to panic. Take a deep breath and continue your regular life as much as possible.
+Y encima de eso, puedes prepararte para que estés familiarizado con las cosas que tendrás que hacer cuando la enfermedad llame a tu puerta. Lea el resto de esta guía. Es estadísticamente improbable que alguien en su casa desarrolle complicaciones que pongan en peligro la vida, y es de esperar que haya mucha atención médica para todos. No duele estar un poco más preparado para el peor de los casos. Pero recuerde al mismo tiempo que no hay razón para el pánico. Respire profundamente y continúe con su vida normal tanto como sea posible.
 
 #### Get the things you need
 
-We made a [shopping page](/shopping) that lists handy things that may help you care for yourself and others.
+Hicimos una [página de compras](/compras) que enumera cosas útiles que pueden ayudarte a cuidar de ti mismo y de los demás.
 
 ### Existing Medical Conditions
 
-If you or your loved ones have existing medical conditions, now is the time to read up on how these conditions could be made worse by COVID-19 / pneumonia. You / they should make extra sure they have plenty of all of your / their necessary medications. Make sure you have all the information relevant for treatment (contact info of doctors, recent lab results, how much of which drugs the patient is taking). Assume for a moment that your regular doctor isn't there and you have to explain it all to a new doctor who has very little time. A recent timeline of visits, results, etc would be nice. What should you not forget? Write it down now!
+Si usted o sus seres queridos tienen condiciones médicas existentes, ahora es el momento de leer sobre cómo estas condiciones podrían empeorar por la COVID-19 / neumonía. Usted / ellos deben asegurarse de que tienen un montón de todos sus / sus medicamentos necesarios. Asegúrese de tener toda la información pertinente para el tratamiento (información de contacto de los médicos, resultados de laboratorio recientes, qué cantidad de medicamentos está tomando el paciente). Suponga por un momento que su médico de cabecera no está ahí y que tiene que explicarle todo a un nuevo médico que tiene muy poco tiempo. Una línea de tiempo reciente de visitas, resultados, etc. estaría bien. ¿Qué es lo que no debes olvidar? ¡Escríbelo ahora!
 
-What sorts of existing medical conditions are especially likely to make you / your loved ones vulnerable to more severe COVID-19 problems?
-- Conditions that involve lungs / breathing problems (e.g., asthma, COPD, lung cancer).
-- Heart conditions, particularly chronic cardiovascular disease (e.g., hypertension, congestive heart failure).
-- Conditions that involve compromised immune function, or that require taking immunosuppressant medications (e.g., lupus, arthritis, organ transplantation, some forms of cancer).
-- Other chronic hematologic, hepatic, metabolic, neurologic, neuromuscular, renal, or disorders (e.g., sickle cell anemia, diabetes, muscular dystrophy, kidney disease). 
+¿Qué tipo de condiciones médicas existentes son especialmente propensas a hacerte a ti o a tus seres queridos vulnerables a problemas más severos de COVID-19?
+- Condiciones que involucran pulmones / problemas respiratorios (por ejemplo, asma, EPOC, cáncer de pulmón).
+- Afecciones cardíacas, en particular enfermedades cardiovasculares crónicas (por ejemplo, hipertensión, insuficiencia cardíaca congestiva).
+- Condiciones que implican una función inmunológica comprometida, o que requieren la toma de medicamentos inmunosupresores (por ejemplo, lupus, artritis, transplante de órganos, algunas formas de cáncer).
+- Otros trastornos hematológicos, hepáticos, metabólicos, neurológicos, neuromusculares o renales crónicos (por ejemplo, anemia falciforme, diabetes, distrofia muscular, enfermedad renal). 
 
 ### Preventive Care
 
-If the situation is still somewhat normal where you are, this may be good moment to briefly ask your doctor what (if anything) she/he thinks you should do now, and what you should do if you fall ill. If you have not yet been vaccinated for the seasonal flu, pneumococcal pneumonia, or meningococcal meningitis, now may also be a good time to ask your doctor if you are a candidate for those vaccines. Getting these vaccinations now if your doctor advises it could help prevent another infection from compounding problems that may be caused by COVID-19, should be you be infected later. 
+Si la situación sigue siendo algo normal en el lugar en que se encuentra, puede ser un buen momento para preguntar brevemente a su médico qué (si es que hay algo) cree que debe hacer ahora, y qué debe hacer si se enferma. Si aún no se ha vacunado contra la gripe estacional, la neumonía neumocócica o la meningitis meningocócica, ahora también puede ser un buen momento para preguntarle a su médico si es candidato para esas vacunas. Vacunarse ahora, si su médico lo aconseja, puede ayudar a prevenir que otra infección agrave los problemas que puede causar el COVID-19, en caso de que se infecte más tarde. 
 
-During pandemics, it is typical for childhood immunizations, maternal healthcare, and healthcare for chronic health conditions to get cancelled or delayed because doctors, nurses, hospitals, and the rest of the healthcare system may be overloaded, and because people may be afraid to go in to doctors' offices or hospitals for fear (sometimes rational) of being exposed to disease. In case your area is not yet greatly affected by COVID-19: Is there any normal childhood vaccination you want to be sure your child gets while he or she can? Any prenatal care or routine care for a chronic health condition you can get now instead of in a month? What about other conditions that are common ailments for you or your loved ones? Anything you can do to prepare to care for yourselves without normal medical care access in the coming months, in case it becomes harder to get time with doctors and nurses because they are overwhelmed? Do it now. 
+Durante las pandemias, es típico que se cancelen o retrasen las inmunizaciones infantiles, la asistencia sanitaria materna y la asistencia sanitaria para enfermedades crónicas porque los médicos, las enfermeras, los hospitales y el resto del sistema de asistencia sanitaria pueden estar sobrecargados y porque las personas pueden tener miedo de ir a los consultorios médicos o a los hospitales por temor (a veces racional) a exponerse a la enfermedad. En caso de que su área no esté aún muy afectada por COVID-19: ¿Hay alguna vacuna infantil normal que quiera asegurarse de que su hijo reciba mientras pueda? ¿Cualquier cuidado prenatal o de rutina para una condición de salud crónica que pueda obtener ahora en vez de en un mes? ¿Qué hay de otras condiciones que son dolencias comunes para usted o sus seres queridos? ¿Algo que puedan hacer para prepararse para cuidarse sin acceso a la atención médica normal en los próximos meses, en caso de que se haga más difícil conseguir tiempo con los médicos y enfermeras porque están abrumados? Hazlo ahora. 

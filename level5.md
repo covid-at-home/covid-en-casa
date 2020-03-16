@@ -1,19 +1,19 @@
-## Level 5 -- System Overload
+## Nivel 5 -- Sobrecarga del sistema
 
-### What if the official channels are overloaded?
+### What if the official channels are overloaded? ### ¿Y si los canales oficiales están sobrecargados?
 
-What we're unfortunately seeing in some areas is that the system becomes stressed to a breaking point if too many people become sick at the same time. Either you cannot get through, you are told the ambulance is going to take a while, hospitals are not taking new patients at all, or some hospitals prioritize treatment of certain groups of patients (such as the relatively young and healthy) over other groups (such as the elderly and / or people with existing illnesses).
+Lo que estamos viendo desgraciadamente en algunas áreas es que el sistema se estresa hasta un punto de ruptura si demasiadas personas se enferman al mismo tiempo. O bien no puede pasar, se le dice que la ambulancia va a tardar un rato, los hospitales no aceptan nuevos pacientes en absoluto, o algunos hospitales dan prioridad al tratamiento de ciertos grupos de pacientes (como los relativamente jóvenes y sanos) sobre otros grupos (como los ancianos y/o las personas con enfermedades existentes).
 
-In the event that official means of getting medical help are unavailable, you might want to try to get hold of that doctor you know, the nurse down the street, anyone with medical training and / or experience. If that doesn't work, depending on the urgency, you might want to mobilize your and the patient's wider circle know you have a patient who is not doing well and that you cannot get help. Ask around for doctors or nurses. Use Facebook? If you have any spare time after that, organize your diary pages, making sure any doctor who has time for the patient can immediately see temperature records, etc. Try not to seem too worried around the patient, because at this point there likely isn't anything he or she is going to be able to do.
+En el caso de que los medios oficiales para obtener ayuda médica no estén disponibles, puede que quieras intentar contactar con ese médico que conoces, la enfermera de la calle, cualquier persona con formación médica y/o experiencia. Si eso no funciona, dependiendo de la urgencia, puede que quieras movilizar a tu círculo más amplio y al del paciente para que sepan que tienes un paciente que no está bien y que no puedes conseguir ayuda. Pregunte por los médicos o enfermeras. ¿Usar Facebook? Si después de esto tiene tiempo libre, organice las páginas de su diario, asegurándose de que cualquier médico que tenga tiempo para el paciente pueda ver inmediatamente los registros de temperatura, etc. Trate de no parecer demasiado preocupado alrededor del paciente, porque en este momento es probable que no haya nada que él o ella vaya a ser capaz de hacer.
 
-If you do get through (by phone?) try to stay calm and help the doctor / hospital assess the situation quickly. 
+Si logras comunicarte (¿por teléfono?) trata de mantener la calma y ayuda al doctor / hospital a evaluar la situación rápidamente. 
 
-In cases where ambulances are the bottleneck and you feel you need one, you will have to make your own judgement whether you want to try and drive to the emergency room or wait and hope to get through. Plan which hospital you go to first and maybe have someone who is not driving with access to the internet, either in the car or on the speakerphone. Please drive safely in any case, the last thing you want is a sick patient in a car accident.
+En los casos en los que las ambulancias son el cuello de botella y usted siente que necesita una, tendrá que hacer su propio juicio si quiere tratar de conducir a la sala de emergencias o esperar y esperar para pasar. Planifica a qué hospital vas primero y tal vez tengas a alguien que no esté conduciendo con acceso a Internet, ya sea en el coche o en el altavoz. Por favor, conduce con cuidado en cualquier caso, lo último que quieres es un paciente enfermo en un accidente de coche.
 
-&nbsp;
+y la CBS;
 
 ----
 
-&nbsp;
+y la CBS;
 
-For now let's all hope our medical professionals can cope with the case load that is coming to them. Do your part in slowing the disease down as much as possible. Let's try to all still be there at the other end of this.
+Por ahora esperemos que nuestros profesionales médicos puedan hacer frente a la carga de casos que les llegan. Haz tu parte en la reducción de la enfermedad tanto como sea posible. Intentemos que todos sigan estando ahí al otro lado de esto.
