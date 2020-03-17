@@ -1,24 +1,24 @@
 ## Lista de compras
 
-Además de tener aproximadamente de 2 a 4 semanas de artículos esenciales como comestibles y otros suministros para el hogar, aquí hay algunas cosas necesarias y útiles para tener si va a cuidar a alguien con COVID-19. Nada de esto es muy caro o requiere un entrenamiento especial para su uso. 
+Nuestra recomendación es mantener de 2 a 4 semanas de artículos esenciales como comestibles y otros suministros para el hogar. Además de esto, aquí presentamos algunas cosas necesarias y útiles para tener si va a cuidar a alguien con COVID-19. Nada de esto es muy caro o requiere un entrenamiento especial para su uso. 
 
-Si incluimos ejemplos (generalmente en la versión alemana de Amazon), esto no es una recomendación de compra y no estamos ganando dinero si haces clic en ese preciso (o cualquier otro). Al mostrarte el ejemplo, no queremos decir nada más que *"algo así "*. Usa cualquier canal online o de venta al por menor que te guste para conseguir algo similar. 
+Si incluimos ejemplos (generalmente en la versión alemana de Amazon), esto no es una recomendación de compra y no estamos ganando dinero si le das clic a ese artículo específico (o cualquier otro). Al mostrarte el ejemplo, no queremos decir nada más que *"algo parecido a esto "*. Sientete libre de usar cualquier canal online o de venta al por menor que te guste para conseguir productos similares. 
 
 y la CBS;
 
-### Must have
+### Indispensable
 
 * **Termómetro de fiebre** (2-10 EUR/USD) ([ejemplo](https://www.amazon.de/gp/product/B001NYHXYS))
 
    > ![](/images/thermometer.png)
    >
-   > Tan importante que probablemente deberías comprobar el tuyo si ha estado en el armario del baño durante años. ¿Sigue estando bien la batería? Realmente no duele tener dos, por si acaso. A 2-10 dólares, son grandes regalos (y como pueden ser insertados analmente para obtener una medida más precisa, pueden no ser artículos que quieras prestar a alguien).
+   > Tan importante que probablemente deberías comprobar el tuyo si ha estado guardado durante años. ¿Sigue estando bien la batería? Realmente no duele tener dos, por si acaso. Con tan sólo 2-10 dólares, serían un excelente regalo (y como pueden ser insertados analmente para obtener una medida más precisa, pueden no ser artículos que quieras prestar a alguien).
 
 * **Suficientes sábanas, fundas de almohada, toallas*
    
    > Cosas que casi todo el mundo tiene en casa, pero sólo para estar seguros: Una vez que la gente se enferma, hay que cambiar la ropa de cama a menudo, y también se pueden usar más toallas.
    
-* **Suministros de limpieza, lejía*
+* **Suministros de limpieza, cloro*
 
 * **Paracetamol (también conocido como acetaminofén)**
 
@@ -26,7 +26,7 @@ y la CBS;
 
 y la CBS;
 
-### Nice to have
+### Opcional, pero recomendado
 
 * **Oxímetro de pulso** (20-25 EUR/USD) ([ejemplo](https://www.amazon.de/gp/product/B07P3ZS6L3))
    > ![](/images/pulse-oxi.png)
@@ -47,24 +47,24 @@ y la CBS;
    > ![](/images/steam.png)
    >
    > A menudo se venden como "sauna facial" o cualquier otro nombre, son sólo dispositivos que producen vapor que no es demasiado caliente para respirar. Cualquier otro método que produzca vapor también está bien, sólo asegúrate de no causar daños con vapor demasiado caliente. El dispositivo toma agua desmineralizada ([ejemplo](https://www.amazon.de/gp/product/B07J5Y95MQ)), especialmente en lugares donde el agua del grifo tiene un alto contenido de calcio. 
-   > **Advertencia:** Los dispositivos cálidos y húmedos son excelentes medios de propagación del virus. Probablemente se usa para una persona enferma a la vez o al menos se limpia meticulosamente.
+   > **Advertencia:** Los dispositivos cálidos y húmedos son excelentes medios de propagación del virus. Use el dispositivo para una sola persona enferma a la vez o al menos, aseguré limpiarlo meticulosamente.
 
 * **Vitaminas** (unos pocos EUR/USD) ([ejemplo](https://www.amazon.de/dp/B07S63PCZK))
    > ![](/images/multi-vitamin.png)
    >
-   > Para cuando el paciente ya no come (mucho) pero aún así bebe. Tal vez tomar las grandes píldoras multivitamínicas que efervescentes en el agua, un par de tubos de esos. Intenta conseguir unos que contengan aproximadamente 1-2 veces la dosis diaria recomendada de todas las vitaminas y minerales que contienen, sin las locas 1000% megadosis.
+   > Para cuando el paciente ya no come (mucho) pero aún así bebe. Tal vez tomar las píldoras multivitamínicas que efervescentes en el agua, un par de tubos de esos. Intenta conseguir unos que contengan aproximadamente 1-2 veces la dosis diaria recomendada de todas las vitaminas y minerales que contienen, sin las megadosis.
 
 y la CBS;
 
-### PPE (Equipo de Protección Personal)
+### EPP (Equipo de Protección Personal)
 
 La compra de EPP es un poco difícil por varias razones.
 
-Primero, todo esto puede ser nuevo. Puede que no esté familiarizado con los tipos de protección que se necesitan en cada situación. La Organización Mundial de la Salud tiene instrucciones muy útiles sobre [cuándo usar una máscara y cómo usarla] (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). Debe usar una mascarilla sólo si está enfermo con COVID-19 conocido o sospechoso (fiebre, tos, dificultad para respirar), y siempre que esté en la misma habitación con alguien que esté enfermo con COVID-19 conocido o sospechoso. No te pongas la máscara mientras la usas y sigue usando buenas prácticas de lavado de manos. Asegúrese de leer algunos consejos y ver algunos vídeos sobre cuándo y cómo ponerse, usar y desechar de forma segura su PPE para asegurarse de que realmente funciona para protegerle a usted y a los demás. (Esto es especialmente cierto si se utiliza un respirador en lugar de una mascarilla: Es sorprendentemente difícil asegurarse de que su respirador tenga un ajuste adecuado).
+Primero, todo esto puede ser muy nuevo para ti. Puede que no estés familiarizado con los tipos de protección que se necesitan en cada situación. La Organización Mundial de la Salud tiene instrucciones muy útiles sobre [cuándo y cómo usar una máscarilla] (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). Debe usar una mascarilla sólo si está enfermo con COVID-19 conocido o sospechoso (fiebre, tos, dificultad para respirar), y siempre que esté en la misma habitación con alguien que esté enfermo con COVID-19 conocido o sospechoso. No toques la máscarilla mientras la usas y mantén buenas prácticas de lavado de manos. Asegúrate de leer algunos consejos y ver algunos vídeos sobre cuándo y cómo ponerse, usar y desechar de forma segura tu PPE para asegurarse de que realmente funciona para protegerte y a los demás. (Esto es especialmente cierto si se utiliza un respirador en lugar de una mascarilla: Es sorprendentemente difícil asegurarse de que tu respirador tenga un ajuste adecuado).
 
-También está el hecho de que algunas personas han estado comprando con pánico y algunas compañías han estado subiendo los precios, haciendo que equipos esenciales como las máscaras no estén disponibles en algunos lugares, incluso para los médicos y enfermeras que realmente los necesitan. Si todavía es pronto para la pandemia, su gobierno puede estar proporcionando máscaras a las personas que viven con y/o cuidan a las personas con COVID-19. La sección aquí describe cosas que podrías intentar conseguir si necesitas cuidar de otras personas. 
+También está el hecho de que algunas personas han estado comprando con pánico y algunas compañías han estado subiendo los precios, haciendo que equipos esenciales como las máscaras no estén disponibles en algunos lugares, incluso para los médicos y enfermeras que realmente los necesitan. Si todavía es pronto para la pandemia, tu gobierno puede estar proporcionando máscarillas a las personas que viven con y/o cuidan a las personas con COVID-19. La sección aquí describe cosas que podrías intentar conseguir si necesitas cuidar de otras personas. 
 
-**Por favor, escuchen los consejos oficiales sobre lo que no se debe comprar para no dejar cosas sin disponibilidad a los doctores y enfermeras que más las necesitan. Las políticas y la práctica general con respecto a las máscaras van a variar salvajemente en todo el mundo durante un tiempo. Salir con una máscara o usarla en la vida diaria si estás sano no está respaldado por las pruebas científicas sobre cómo mantenerse sano. (Lo que también significa que no necesitas una tonelada de máscaras.) Pero probablemente tiene sentido usar una máscara si te sientes un poco enfermo o estás tosiendo. También tiene sentido si estás cuidando a alguien que está enfermo. Incluso es obligatorio en los protocolos de cuarentena de cuidados domiciliarios de COVID en algunos países.  Vea el texto principal sobre otras cosas en las que pensar cuando se trata de contener la propagación del virus tanto como sea posible.
+**Por favor, asegúrese de escuchar las recomendaciones oficiales sobre lo que no se debe comprar para no desabastecer a los doctores y enfermeras que más las necesitan. Las políticas y la práctica general con respecto a las mascarillas van a variar muchísimo en todo el mundo durante un tiempo. Salir con una mascarilla o usarla en la vida diaria si estás sano no está respaldado por las pruebas científicas sobre cómo mantenerse sano. (Lo que también significa que no necesitas una tonelada de mascarillas.) Pero probablemente tiene sentido usar una mascarilla si te sientes un poco enfermo o estás tosiendo. También tiene sentido si estás cuidando a alguien que está enfermo. Incluso es obligatorio en los protocolos de cuarentena de cuidados domiciliarios de COVID en algunos países.  Vea el texto principal sobre otras cosas en las que pensar cuando se trata de contener la propagación del virus tanto como sea posible.
 
 A la hora de la verdad, tendrás que tomar tus propias decisiones en cuanto al nivel de protección que es apropiado en tu situación. 
 
