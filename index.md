@@ -17,7 +17,7 @@ Algunos de los autores de este sitio web no son conocidos como grandes fanático
   * [Instituto Robert Koch (Alemania)](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
   * [Centro Europeo para la Prevención y el Control de las Enfermedades (UE)](https://www.ecdc.europa.eu/en)
 
-# Conozca los hechos
+# Conozca los hechos:
   * El COVID-19 es real.
   * El COVID-19 es un virus de la naturaleza que mutó para infectar a huéspedes humanos después de empezar en los animales.
   * Parece ser el doble de infeccioso y causar mucha más neumonía, otras enfermedades graves y muertes que el virus de la gripe estacional. También es peor que la gripe porque la población mundial hasta ahora carece de inmunidad. Las nuevas enfermedades son más peligrosas, porque sus tasas de infección pueden crecer increíblemente rápido (incluso teniendo un crecimiento exponencial). Una transmisión tan rápida de una nueva enfermedad puede abrumar rápidamente incluso a los sistemas de atención de la salud más destacados, haciendo imposible el acceso a ella de todas las personas que necesitan atención, lo que a su vez contribuye a que la enfermedad sea más grave y a que se produzcan muertes.
