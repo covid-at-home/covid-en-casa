@@ -26,13 +26,15 @@
         <header class="inner">
 
           <div class="languages">
-            <div class="item"><a href="https://covid-at-home.info">English</a></div>
-            <div class="item"><a href="https://covid-zu-hause.info">Deutsch</a></div>
-<!--            <div class="item"><a href="https://covid-en-casa.info">Español</a></div> -->
+            {% for language in site.data.langauges.languages %}
+              {% if language.url != site.url %}
+                <div class="item"><a href="{{ language.url }}">{{ language.title }}</a></div>
+              {% endif %}
+            {% endfor %}
           </div>
 
-          <a href="https://www.covid-en-casa.info/"><h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1></a>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <a href="{{ site.url }}"><h1 id="project_title">{{ site.title }}</h1></a>
+          <h2 id="project_tagline">{{ site.description }}</h2>
 
           <div class="menu">
             {% for item in site.data.mainmenu.items %}
@@ -59,7 +61,7 @@
       </footer>
     </div>
 
-    <script data-goatcounter="https://covid-en-casa.goatcounter.com/count" 
+    <script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" 
         async src="/count.js"></script>
   </body>
 </html>
