@@ -1,7 +1,8 @@
 theme: jekyll-theme-slate
 title: COVID en Casa
-description: Una guía colaborativa para el cuidado de COVID-19
-google_analytics: UA-160293705-1
+description: Una guía de colaboración para el cuidado de COVID-19
+url: https://covid-en-casa.info
+slug: covid-en-casa
 show_downloads: false
 github:
   is_project_page: false
