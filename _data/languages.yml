@@ -9,5 +9,5 @@ languages:
 - title: Español
   url: https://covid-en-casa.info
   
-- title: Português
-  url: https://covid-em-casa.info
+#- title: Português
+#  url: https://covid-em-casa.info
