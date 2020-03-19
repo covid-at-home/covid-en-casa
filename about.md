@@ -14,11 +14,9 @@ Este sitio se publica bajo una [Licencia Internacional de Reconocimiento-No Come
 
 Este sitio es mejor porque recibimos ayuda de (en orden alfabético):
 
-* Jill Bähring
-* Lucky Green
-* Jakob Richers
-* Katrin Schmidt
-* Andreas Steinhauser
+{% for person in site.data.thankyou.people %}
+* {{ person.name }}
+{% endfor %}
 
 ### Impressum
 
