@@ -16,4 +16,4 @@ Al principio de cada día rellenas la información de la derecha. Nombre, fecha 
 
 ### Cuando las cosas se ponen serias
 
-Si el paciente se enferman cada vez más, es conveniente consultar el ["capítulo del nivel 4"](/#nivel-4-aspiración de los profesionales) del texto principal para obtener alguna orientación básica sobre cuándo llamar a un médico o ir al hospital. Esta guía básica es sólo eso, una guía para ayudarte a tener un sentido muy, muy básico de lo que es "sólo enfermo" vs. "demasiado enfermo para estar en casa". No eres médico. Si te sientes inseguro, pide ayuda.
+Si el paciente se enferman cada vez más, es conveniente consultar el ["capítulo del nivel 4"](/#level-4--proffesionals-take-over) del texto principal para obtener alguna orientación básica sobre cuándo llamar a un médico o ir al hospital. Esta guía básica es sólo eso, una guía para ayudarte a tener un sentido muy, muy básico de lo que es "sólo enfermo" vs. "demasiado enfermo para estar en casa". No eres médico. Si te sientes inseguro, pide ayuda.
