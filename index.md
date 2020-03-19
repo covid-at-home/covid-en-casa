@@ -12,17 +12,17 @@ Esta guía contiene consejos generales que deberían ser aplicables en muchos lu
 
 Algunos de los autores de este sitio web no son conocidos como grandes fanáticos del gobierno y la autoridad, pero en este momento la confianza en las autoridades de salud pública es vital. Donde haya discrepancias, confíe en fuentes de buena reputación como:
 
-..* [Organización Mundial de la Salud (Internacional)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
-..* [Centros para el Control de Enfermedades (EE.UU.)](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
-..* [Instituto Robert Koch (Alemania)](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
-..* [Centro Europeo para la Prevención y el Control de las Enfermedades (UE)](https://www.ecdc.europa.eu/en)
+  * [Organización Mundial de la Salud (Internacional)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+  * [Centros para el Control de Enfermedades (EE.UU.)](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+  * [Instituto Robert Koch (Alemania)](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
+  * [Centro Europeo para la Prevención y el Control de las Enfermedades (UE)](https://www.ecdc.europa.eu/en)
 
 # Conozca los hechos
-..* El COVID-19 es real.
-..* El COVID-19 es un virus de la naturaleza que mutó para infectar a huéspedes humanos después de empezar en los animales.
-..* Parece ser el doble de infeccioso y causar mucha más neumonía, otras enfermedades graves y muertes que el virus de la gripe estacional. También es peor que la gripe porque la población mundial hasta ahora carece de inmunidad. Las nuevas enfermedades son más peligrosas, porque sus tasas de infección pueden crecer increíblemente rápido (incluso teniendo un crecimiento exponencial). Una transmisión tan rápida de una nueva enfermedad puede abrumar rápidamente incluso a los sistemas de atención de la salud más destacados, haciendo imposible el acceso a ella de todas las personas que necesitan atención, lo que a su vez contribuye a que la enfermedad sea más grave y a que se produzcan muertes.
-..* La contención de COVID-19 es la mejor oportunidad que tenemos de salvar un gran número de vidas. La contención requiere una amplia cooperación y la aplicación de medidas como el amplio acceso a exámenes para detectar la enfermada y el distanciamiento social (véase el nivel 1 aabajo).
-..* Por estas razones, es hora de cambiar nuestra forma de vida (por ahora) para hacer frente a la muy real amenaza que esta pandemia supone para nuestro mundo.
+  * El COVID-19 es real.
+  * El COVID-19 es un virus de la naturaleza que mutó para infectar a huéspedes humanos después de empezar en los animales.
+  * Parece ser el doble de infeccioso y causar mucha más neumonía, otras enfermedades graves y muertes que el virus de la gripe estacional. También es peor que la gripe porque la población mundial hasta ahora carece de inmunidad. Las nuevas enfermedades son más peligrosas, porque sus tasas de infección pueden crecer increíblemente rápido (incluso teniendo un crecimiento exponencial). Una transmisión tan rápida de una nueva enfermedad puede abrumar rápidamente incluso a los sistemas de atención de la salud más destacados, haciendo imposible el acceso a ella de todas las personas que necesitan atención, lo que a su vez contribuye a que la enfermedad sea más grave y a que se produzcan muertes.
+  * La contención de COVID-19 es la mejor oportunidad que tenemos de salvar un gran número de vidas. La contención requiere una amplia cooperación y la aplicación de medidas como el amplio acceso a exámenes para detectar la enfermada y el distanciamiento social (véase el nivel 1 aabajo).
+  * Por estas razones, es hora de cambiar nuestra forma de vida (por ahora) para hacer frente a la muy real amenaza que esta pandemia supone para nuestro mundo.
 
 *En este punto el sitio utiliza unidades métricas en muchos lugares, aunque a veces se proporcionan tanto unidades métricas como imperiales. Esperamos ofrecer versiones métricas e imperiales de todo en los próximos días.
 
