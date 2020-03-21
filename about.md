@@ -1,14 +1,14 @@
 ## Acerca de covid-at-home.info
 
-Este sitio comenzó como una iniciativa privada de Rop Gonggrijp y Vera Wilde, quienes hicieron gran parte de la investigación y los escritos iniciales. Muy pronto, algunos de sus amigos comenzaron a ayudar corrigiendo, traduciendo y proporcionando correcciones y adiciones útiles. Vamos a buscar esta guía en la red. Una traducción al alemán está casi hecha y otras traducciones están siendo planeadas mientras escribimos esto.
+Este sitio comenzó como una iniciativa privada de Rop Gonggrijp y Vera Wilde, quienes hicieron gran parte de la investigación y los escritos iniciales. Muy pronto, algunos de sus amigos comenzaron a ayudar corrigiendo, traduciendo y proporcionando correcciones y adiciones útiles. Únete a trabajar con nosotros en está guía colaborativa. Una traducción al alemán está casi hecha y otras traducciones están siendo planeadas en este momento.
 
-El objetivo de "covid-at-home" es compartir (en forma aún más concisa) lo que hemos aprendido y proporcionar información práctica sin tonterías para hacer frente a la pandemia de COVID-19 de forma abierta y no comercial. La principal suposición es que, al menos en algunos lugares, COVID-19 inundará temporalmente el sistema sanitario, de modo que cuanto más confianza tenga la gente en el trato con los enfermos en casa, menos gente se presentará en los consultorios médicos y hospitales innecesariamente. Al mismo tiempo, la gente todavía necesita saber cuándo los pacientes necesitan atención médica. 
+El objetivo de "covid-at-home" es compartir (en forma aún más concisa) lo que hemos aprendido y proporcionar información práctica sin tonterías para hacer frente a la pandemia de COVID-19 de forma abierta y no comercial. Nuestra principal hipótesis es que, al menos en algunos lugares, COVID-19 inundará temporalmente el sistema sanitario, de modo que cuanto más confianza tenga la gente en el trato con los enfermos en casa, menos gente se presentará en los consultorios médicos y hospitales innecesariamente. Al mismo tiempo, necesitamos aprender cuándo los pacientes necesitan realmente atención médica. 
 
-¿Quieres ayudar? Yay! Tenemos una [sección entera](/ayuda) dedicada a eso.
+¿Quieres ayudar? ¡Genial! Tenemos una [sección entera](/ayuda) dedicada a eso.
 
-### License
+### Licencia
 
-Este sitio se publica bajo una [Licencia Internacional de Reconocimiento-No Comercial-CompartirIgual 4.0 de Creative Commons] (http://creativecommons.org/licenses/by-nc-sa/4.0/) y no se está haciendo dinero aquí de ninguna manera. No hay patrocinadores, y no hay oportunidad de donar nada aquí excepto su tiempo y energía.
+Este sitio se publica bajo una [Licencia Internacional Creative Commons Attribution-NonCommercial-ShareAlike 4.0] (http://creativecommons.org/licenses/by-nc-sa/4.0/) y no se está haciendo dinero aquí de ninguna manera. No hay patrocinadores, y no hay oportunidad de donar nada aquí excepto su tiempo y energía.
 
 ### Gracias.
 
