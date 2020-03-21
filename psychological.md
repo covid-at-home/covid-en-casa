@@ -1,4 +1,4 @@
-Las siguientes recomendaciones fueron tomadas del [Ministerio Federal de Defensa Austriaco] (http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494) (¡figura!). Todo ello parece un buen consejo en las actuales circunstancias. 
+Las siguientes recomendaciones fueron tomadas del [Ministerio Federal de Defensa Austriaco](http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494) (imagen). Todo ello parece un buen consejo en las actuales circunstancias. 
 
 
 ## Consejo psicológico relacionado con COVID-19
