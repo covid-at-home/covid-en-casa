@@ -47,7 +47,7 @@ Además, puedes hacer cosas para mantenerte lo más saludable posible:
 * Si quieres hacer más después de cubrir primero estos aspectos esenciales, entonces considera [opciones de medicina complementaria](/complementaria) para mejorar la inmunidad, prevenir y tratar infecciones respiratorias superiores y/o virales, y similares. Hay varias opciones útiles, pero hay que tener en cuenta que las pruebas hasta ahora son específicas de los diferentes contextos. Muchos charlatanes van a hacer mucho dinero con el pánico sin ofrecer ayuda real. No caigas en estos engaños. 
 
 ### Bienestar psicológico
-La situación con el COVID-19 va a ser dificil para todos nosotros en algún momento, y va a afectar a todos y cada uno de nosotros de manera diferente. Consulte la página con [recomendaciones, consejos y sugerencias para el bienestar psicológico.](https://covid-en-casa.info/psychological)
+La situación con el COVID-19 va a ser dificil para todos nosotros en algún momento, y va a afectar a todos y cada uno de nosotros de manera diferente. Consulte nuestra página con [recomendaciones, consejos y sugerencias para el bienestar psicológico.](https://covid-en-casa.info/psychological)
 
 ### Prepárate
 
