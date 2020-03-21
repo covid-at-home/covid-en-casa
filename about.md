@@ -14,8 +14,7 @@ Este sitio se publica bajo una [Licencia Internacional Creative Commons Attribut
 
 Este sitio es mejor porque recibimos ayuda de (en orden alfabético):
 
-{% for person in site.data.thankyou.people %}
-  {{ person.name }}
+{% for person in site.data.thankyou.people %}* {{ person.name }}
 {% endfor %}
 
 ### Impressum
