@@ -4,8 +4,6 @@ Nuestra recomendación es mantener de 2 a 4 semanas de artículos esenciales com
 
 Si incluimos ejemplos (generalmente en la versión alemana de Amazon), esto no es una recomendación de compra y no estamos ganando dinero si le das clic a ese artículo específico (o cualquier otro). Al mostrarte el ejemplo, no queremos decir nada más que *"algo parecido a esto "*. Sientete libre de usar cualquier canal online o de venta al por menor que te guste para conseguir productos similares. 
 
-y la CBS;
-
 ### Indispensable
 
 * **Termómetro de fiebre** (2-10 EUR/USD) ([ejemplo](https://www.amazon.de/gp/product/B001NYHXYS))
@@ -24,7 +22,6 @@ y la CBS;
 
   > El supresor de la fiebre y el analgésico de elección. Asegúrese de seguir las instrucciones del envase y no exceda la dosis diaria máxima recomendada.
 
-y la CBS;
 
 ### Opcional, pero recomendado
 
@@ -52,9 +49,12 @@ y la CBS;
 * **Vitaminas** (unos pocos EUR/USD) ([ejemplo](https://www.amazon.de/dp/B07S63PCZK))
    > ![](/images/multi-vitamin.png)
    >
-   > Para cuando el paciente ya no come (mucho) pero aún así bebe. Tal vez tomar las píldoras multivitamínicas que efervescentes en el agua, un par de tubos de esos. Intenta conseguir unos que contengan aproximadamente 1-2 veces la dosis diaria recomendada de todas las vitaminas y minerales que contienen, sin las megadosis.
+   > Para cuando el paciente ya no come (mucho) pero aún así bebe. Tal vez tomar las píldoras multivitamínicas que efervescentes en el agua, un par de tubos de esos. Intenta conseguir unos que contengan aproximadamente 1-2 veces la dosis.
 
-y la CBS;
+### Nota importante
+Una nota sobre los dos primeros puntos en la lista anterior: algunos profesionales médicos con los que hemos consultado creen que los que no tienen formación médica que toman medidas de SpO2 o de presión sanguínea podrián causar más daño. Incluimos estos dispositivos aquí porque son de uso común y sentimos que en algunos lugares, durante algunos períodos, el sistema de salud no va a ser capaz de hacer frente al número de personas que se enferman, e inclinamos la balanza hacia las ventajas de poder ver/mostrar las tendencias en signos vitales.
+
+Si decide que quiere ser capaz de medir la presión arterial y la SpO2, entonces al menos familiarícese adecuadamente con el dispositivo. ¡Practique! También para tener una buena idea de cómo son los valores normales en usted y sus seres queridos antes de que alguien se enferme. Lea nuestra guía sobre cuándo y cuándo no buscar ayuda en base a la información que ellos proporcionan.
 
 ### EPP (Equipo de Protección Personal)
 
