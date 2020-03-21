@@ -1,9 +1,9 @@
-Las siguientes recomendaciones fueron tomadas del [Ministerio Federal de Defensa Austriaco](http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494) (imagen). Todo ello parece un buen consejo en las actuales circunstancias. 
+Las siguientes recomendaciones fueron tomadas del [Ministerio Federal de Defensa Austriaco](http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494) (Imagínate eso!). Todo lo ahí sugerido parece ser un buen consejo en las circunstancias actuales. 
 
 
 ## Consejo psicológico relacionado con COVID-19
 
-El aislamiento puede pasar factura. La sospecha de una infección, el miedo a ella, o la propia enfermedad también pueden poner en tensión la psique. Para aligerar estas cargas, recomendamos:
+El aislamiento puede pasar la factura. La sospecha de una infección, el miedo a ella, o la propia enfermedad también pueden poner en tensión la psique. Para aligerar estas cargas, recomendamos:
 
 **Establecer confianza**: La información regular de fuentes fiables (por ejemplo, la emisora nacional, los sitios web de las autoridades de salud pública) ayuda a evitar que los pensamientos cobren vida propia. De esta manera, la seguridad puede establecerse en una situación en la que los miedos y preocupaciones son completamente normales y comprensibles.
 
