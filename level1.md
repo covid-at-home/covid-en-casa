@@ -46,6 +46,9 @@ Además, puedes hacer cosas para mantenerte lo más saludable posible:
 * Evita el consumo de alcohol y otras drogas, ya que el alcohol y otras drogas tienden a suprimir la función inmunológica.
 * Si quieres hacer más después de cubrir primero estos aspectos esenciales, entonces considera [opciones de medicina complementaria](/complementaria) para mejorar la inmunidad, prevenir y tratar infecciones respiratorias superiores y/o virales, y similares. Hay varias opciones útiles, pero hay que tener en cuenta que las pruebas hasta ahora son específicas de los diferentes contextos. Muchos charlatanes van a hacer mucho dinero con el pánico sin ofrecer ayuda real. No caigas en estos engaños. 
 
+### Bienestar psicológico
+La situación con el COVID-19 va a ser dificil para todos nosotros en algún momento, y va a afectar a todos y cada uno de nosotros de manera diferente. Consulte la página con [recomendaciones, consejos y sugerencias para el bienestar psicológico.](https://covid-en-casa.info/psychological)
+
 ### Prepárate
 
 Además de todo esto, puedes prepararte para que estés familiarizado con las cosas que tendrás que hacer cuando la enfermedad llame a tu puerta. Lee el resto de esta guía. Es estadísticamente improbable que alguien en su casa desarrolle complicaciones que pongan en peligro la vida, y esperamos que haya suficiente atención médica para todos. Pero no está de más estar un poco más preparado para el peor de los casos. Sin embargo, recuerda que no hay razón para el pánico, respira profundamente y continúa con tu vida normal tanto como sea posible.
