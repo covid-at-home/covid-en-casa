@@ -53,7 +53,7 @@ Además, anota cualquier síntoma que tenga el paciente. Si tiene dolor, ¿dónd
 
 El paracetamol (también conocido como acetaminofén) es una buena opción para la fiebre y la supresión del dolor. Llevar un diario de la enfermedad con un registro de cuánto y cuando medicamento ha tomado, ayudará a asegurarse de que está tratando la fiebre adecuadamente, sin tomar más de la cantidad recomendada en un período de 24 horas.
 
-[![](/images/diary-small.png)](/diary)
+[![](/images/diary-small-slanted.png)](/diary)
 
 #### Imprimir el diario de la enfermedad
 
