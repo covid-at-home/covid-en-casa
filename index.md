@@ -30,7 +30,7 @@ Recuerde que no hay diferencia en el potencial de infección entre amigos y extr
 
 *En este punto el sitio utiliza unidades métricas en muchos lugares, aunque a veces se proporcionan tanto unidades métricas como imperiales. Esperamos ofrecer versiones métricas e imperiales de todo en los próximos días.
 
-> Si ves algo que podría ser mejor, por favor, haz [clic aquí](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) para presentar un problema. Como puedes ver allí, el backend de este sitio web está en Github, así que si conoces ese entorno probablemente puedas pensar en otras formas de ayudar. Para tener éxito, esto tendrá que ser un esfuerzo de colaboración en expansión.*
+> Si tienes idea de como este sitio puede mejorar, escribenos un issue en Github en este enlace [clic aquí](https://github.com/covid-at-home/covid-at-home.github.io/issues/new). Como puedes ver allí, el backend de este sitio web está en Github, así que si conoces ese entorno probablemente puedas pensar en otras formas de ayudar. Para tener éxito, este proyecto tendrá que ser un esfuerzo collaborativo creciente.*
 
 &nbsp; 
 
