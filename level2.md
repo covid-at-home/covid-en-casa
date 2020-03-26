@@ -39,7 +39,7 @@ Los miembros del hogar de las personas que se sabe o se sospecha que están infe
 
 Limpia regularmente todas las superficies que se tocan con frecuencia con cloro diluido en agua: 10 ml / 2 cucharaditas de cloro con medio litro / 2 tazas de agua (lavar cuidadosamente las herramientas de medición antes de volver a utilizarlas). Puedes poner esa solución en una botella con rociador para plantas en desuso. Debes darle un minuto al spray para que trabaje en las superficies antes de secarlo.
 
-Ahora, antes de que sea muy tarde, es el momento de pensar en el Equipo de Protección Personal (EPP). Si puedes conseguir máscaras, usa una. Los guantes desechables, las batas de protección de manga larga y la protección de los ojos también pueden ser apropiados. La [página de compras](/compras) de este sitio web contiene algunas ideas de artículos de protección personal, así como información importante sobre cuándo y cómo usarlos.
+Ahora, antes de que sea muy tarde, es el momento de pensar en el Equipo de Protección Personal (EPP). Si puedes conseguir máscaras, usa una. Los guantes desechables, las batas de protección de manga larga y la protección de los ojos también pueden ser apropiados. La [página de compras](/shopping) de este sitio web contiene algunas ideas de artículos de protección personal, así como información importante sobre cuándo y cómo usarlos.
 
 En la mayoría de los lugares, probablemente llegará un momento en que el número de casos se dispare, muchas personas ya han tenido COVID-19, y las autoridades ya no mantendrán registros de quién lo ha tenido y quién no. La base entonces sigue siendo la misma: tratar de proteger a las personas mayores y a las personas con enfermedades existentes tanto como sea posible, y tratar de minimizar la propagación siempre que se pueda, lo mejor que se pueda. Recuerda: Cuanto más podamos frenar la propagación de la enfermedad, mejor para todos. Porque al reducir la propagación (es decir, aplanar una curva potencialmente exponencial), puede ayudar a disminuir el grado de agobio del sistema de salud. Esto a su vez aumenta la proporción y el número de personas que necesitan atención médica, que pueden acceder a ella. Esto ayuda a los médicos y enfermeras a salvar más vidas. 
 
@@ -47,7 +47,7 @@ En la mayoría de los lugares, probablemente llegará un momento en que el núme
 
 El momento en que empiezan los síntomas es el adecuado para iniciar un diario de la enfermedad. 
 
-Unas cuantas veces al día, preferiblemente en horas o puntos algo regulares de sus rutinas o ritmos normales (por ejemplo, todas las mañanas antes de hacer café o té), mide la temperatura, incluso si no sientes que tienes fiebre (todavía). Pésate una vez al día si es posible. También anota los ritmos respiratorios y cardíacos en las respiraciones y los latidos por minuto. Te acostumbrarás a hacer estas cosas, tendrás más práctica y (si empiezas pronto) te darás una idea de cómo son los valores (más o menos) saludables para ti. No es necesario, pero sí puntos extra si además mides la presión sanguínea y la oxigenación (Los dispositivos para medir estos valores son baratos, ver la [página de compras](/compras)). 
+Unas cuantas veces al día, preferiblemente en horas o puntos algo regulares de sus rutinas o ritmos normales (por ejemplo, todas las mañanas antes de hacer café o té), mide la temperatura, incluso si no sientes que tienes fiebre (todavía). Pésate una vez al día si es posible. También anota los ritmos respiratorios y cardíacos en las respiraciones y los latidos por minuto. Te acostumbrarás a hacer estas cosas, tendrás más práctica y (si empiezas pronto) te darás una idea de cómo son los valores (más o menos) saludables para ti. No es necesario, pero sí puntos extra si además mides la presión sanguínea y la oxigenación (Los dispositivos para medir estos valores son baratos, ver la [página de compras](/shopping)). 
 
 Además, anota cualquier síntoma que tenga el paciente. Si tiene dolor, ¿dónde y cuándo es el dolor, y qué tan grave en una escala de 0 (ningún dolor) a 10 (el peor dolor imaginable)? ¿Qué tan grave es la tos? ¿De qué color si se está produciendo moco? Asegúrate de anotar qué medicación, si es que la hay, toma el paciente. 
 
@@ -57,7 +57,7 @@ El paracetamol (también conocido como acetaminofén) es una buena opción para 
 
 #### Imprimir el diario de la enfermedad
 
-Hicimos un **[diario de enfermedad imprimible](/diario)** que puedes usar para anotar toda la información que recoges cuando tomas la temperatura, la frecuencia respiratoria, etc. Por favor, revisa el formulario y nuestra página web sobre ello a través del enlace de arriba.
+Hicimos un **[diario de enfermedad imprimible](/diary)** que puedes usar para anotar toda la información que recoges cuando tomas la temperatura, la frecuencia respiratoria, etc. Por favor, revisa el formulario y nuestra página web sobre ello a través del enlace de arriba.
 
 ### Recupérate
 
