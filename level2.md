@@ -17,11 +17,11 @@ Los síntomas también pueden incluir dolor de cabeza, escalofríos, mareos, con
 
 ¿Se ha extendido COVID-19 en la comunidad donde vives? ¿O has estado en un área afectada o cerca de alguien que estaba en un área afectada? Entonces tus síntomas podrían ser muy bien el COVID-19. Pero recuerda: en muchas áreas, las probabilidades de que sea otra cosa serán aún mayores.
 
-> Nota: La fiebre no es subjetiva. Necesitará un termómetro (o dos), y llevar un registro de al menos la temperatura diaria. Si elige tomar la temperatura internamente (es decir, en el recto), será más preciso. Asegúrate de tener suficientes toallitas y alcohol para limpiar el termómetro después de cada uso. Si tomas la temperatura por vía oral, no comas ni bebas durante 20 minutos antes. De cualquier manera, anota el método en el registro para que el personal sanitario sepa cuál es. (Alrededor de 0,7 grados centígrados se añade a menudo a las temperaturas orales.) Aquí hay algunas buenas instrucciones para [cómo tomar la temperatura oral] (https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
+> Nota: La fiebre no es subjetiva. Necesitará un termómetro (o dos), y llevar un registro de al menos la temperatura diaria. Si elige tomar la temperatura internamente (es decir, en el recto), será más preciso. Asegúrate de tener suficientes toallitas y alcohol para limpiar el termómetro después de cada uso. Si tomas la temperatura por vía oral, no comas ni bebas durante 20 minutos antes. De cualquier manera, anota el método en el registro para que el personal sanitario sepa cuál es. (Alrededor de 0,7 grados centígrados se añade a menudo a las temperaturas orales.) Aquí hay algunas buenas instrucciones para [cómo tomar la temperatura oral](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
 
 ### Diagnóstico
 
-Habrá diferentes políticas en torno a las pruebas del COVID-19 en función de dónde te encuentres y en qué fase de la pandemia se encuentre tu zona. Revisa en línea, llama a los números oficiales de la línea directa, sigue las pautas oficiales y considera la posibilidad de conducir hasta un centro de pruebas con auto-servicio si tu área tiene uno y el paciente califica para las pruebas. **No deberías aparecer en la oficina de un doctor o en un hospital sin avisar si acabas de experimentar los primeros síntomas.
+Habrá diferentes políticas en torno a las pruebas del COVID-19 en función de dónde te encuentres y en qué fase de la pandemia se encuentre tu zona. Revisa en línea, llama a los números oficiales de la línea directa, sigue las pautas oficiales y considera la posibilidad de conducir hasta un centro de pruebas con auto-servicio si tu área tiene uno y el paciente califica para las pruebas. **No deberías aparecer en la oficina de un doctor o en un hospital sin avisar si acabas de experimentar los primeros síntomas.**
 
 > Recuerda: Los hospitales son malos lugares para estar hasta que tienes que estar allí: Tu o el paciente corren el riesgo de contraer infecciones adicionales que, cuando son bacterianas o fúngicas, es mucho más probable que sean resistentes a los tratamientos estándar debido a la naturaleza del ambiente del hospital. También: Muchos hospitales van a estar sobrecargados.
 
@@ -53,7 +53,7 @@ Además, anota cualquier síntoma que tenga el paciente. Si tiene dolor, ¿dónd
 
 El paracetamol (también conocido como acetaminofén) es una buena opción para la fiebre y la supresión del dolor. Llevar un diario de la enfermedad con un registro de cuánto y cuando medicamento ha tomado, ayudará a asegurarse de que está tratando la fiebre adecuadamente, sin tomar más de la cantidad recomendada en un período de 24 horas.
 
-[![](/imágenes/diario-pequeño.png)](/diario)
+[![](/images/diary-small.png)](/diary)
 
 #### Imprimir el diario de la enfermedad
 
