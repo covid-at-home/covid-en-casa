@@ -1,6 +1,7 @@
 ## Nivel 1 -- Saludable
 
 ### Evita ser contagiado
+(O evita infectar a otros si eres asintomático / te sientes bien, pero en eres portador del virus COVID-19. Los casos asintomáticos siguen siendo infecciosos.)
 
 Cuando sea posible, sigue las instrucciones de las autoridades. Esto incluye algunas de las pautas ya conocidas para el distanciamiento social:
 
