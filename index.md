@@ -1,6 +1,16 @@
 Este sitio web se creó como resultado de la pandemia COVID-19, pero gran parte de los consejos que pueden encontrar aquí son aplicables en otras circunstancias. Mucho de lo que se discute aquí puede ser de sentido común para algunos, pero sentimos que es bueno tener consejos y listas de control para las etapas de la enfermedad en un solo lugar. Aunque consultamos con enfermeras y médicos sobre muchos de estos consejos, la mayor parte de este texto fue escrito por personas sin formación médica, tratando de descifrar lo que tiene sentido en esta nueva situación. 
 
-Para que quede claro: **Escucha a las AUTORIDADES DE SALUD LOCALES, DOCTORES Y ENFERMEROS** cuando se te da a elegir entre eso y algo que encontraste en Internet.
+{{ site.data.tags.disclaimer.begin }}
+
+## POR FAVOR, LEA LO SIGUIENTE
+
+Queremos ser claros: ESCUCHE A LAS AUTORIDADES DE SALUD LOCALES, DOCTORES Y ENFERMEROS cuando te den a elegir entre eso y algo que hayas encontrado en Internet.
+
+La información en este sitio web se proporciona con fines informativos solamente y no pretende ser un sustituto del asesoramiento proporcionado por un médico o profesional sanitario cualificado. Los pacientes no deben utilizar la información aquí proporcionada para diagnosticar una condición de salud, problema o enfermedad. Los pacientes siempre deben consultar con un médico u otro profesional de la salud para obtener asesoramiento médico o información sobre el diagnóstico y el tratamiento.
+
+**EN CASO DE EMERGENCIA, MARQUE EL NÚMERO DE TELÉFONO DE EMERGENCIA DE SU LOCALIDAD.**
+
+{{ site.data.tags.disclaimer.end }}
 
 Cuando empezamos a escribir para este sitio en Berlín, Alemania, en la segunda semana de marzo de 2020, todavía mucho no estaba claro sobre el virus, pero el número de infectados y muertos aumentaba constantemente, más recientemente en Italia. Aunque no es ahora - ni nunca - un buen momento para el pánico, creemos que es hora de pensar y prepararse.
 
