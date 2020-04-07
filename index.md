@@ -4,7 +4,7 @@ Este sitio web se creó como resultado de la pandemia COVID-19, pero gran parte 
 
 ## POR FAVOR, LEA LO SIGUIENTE
 
-Queremos ser claros: ESCUCHE A LAS AUTORIDADES DE SALUD LOCALES, DOCTORES Y ENFERMEROS cuando te den a elegir entre eso y algo que hayas encontrado en Internet.
+Queremos ser claros: **ESCUCHE A LAS AUTORIDADES DE SALUD LOCALES, DOCTORES Y ENFERMEROS** cuando te den a elegir entre eso y algo que hayas encontrado en Internet.
 
 La información en este sitio web se proporciona con fines informativos solamente y no pretende ser un sustituto del asesoramiento proporcionado por un médico o profesional sanitario cualificado. Los pacientes no deben utilizar la información aquí proporcionada para diagnosticar una condición de salud, problema o enfermedad. Los pacientes siempre deben consultar con un médico u otro profesional de la salud para obtener asesoramiento médico o información sobre el diagnóstico y el tratamiento.
 
