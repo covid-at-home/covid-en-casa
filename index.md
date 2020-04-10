@@ -8,7 +8,7 @@ Queremos ser claros: **ESCUCHE A LAS AUTORIDADES DE SALUD LOCALES, DOCTORES Y EN
 
 La información en este sitio web se proporciona con fines informativos solamente y no pretende ser un sustituto del asesoramiento proporcionado por un médico o profesional sanitario cualificado. Los pacientes no deben utilizar la información aquí proporcionada para diagnosticar una condición de salud, problema o enfermedad. Los pacientes siempre deben consultar con un médico u otro profesional de la salud para obtener asesoramiento médico o información sobre el diagnóstico y el tratamiento.
 
-**EN CASO DE EMERGENCIA, MARQUE EL NÚMERO DE TELÉFONO DE EMERGENCIA DE SU LOCALIDAD.**
+**EN CASO DE EMERGENCIA, LLAME A LOS NUMEROS DE EMERGENCIA DE SU LOCALIDAD.**
 
 {{ site.data.tags.disclaimer.end }}
 
@@ -19,6 +19,19 @@ Cuando empezamos a escribir para este sitio en Berlín, Alemania, en la segunda 
 Esta guía se basa en la suposición de que en los próximos meses, más gente de lo habitual se enfermará o tendrá personas enfermas en sus vidas. Esperemos lo mejor, pero vamos a asumir que los médicos y los hospitales van a estar muy ocupados, si no sobrecargados. Tenemos que enfrentarnos a la posibilidad de que algunas de las personas que normalmente serían atendidas bajo supervisión médica necesiten ser atendidas en casa. Esperamos que parte de la información aquí contenida les dé cierta confianza en el tratamiento de esta enfermedad, que por sí misma reducirá la carga de los médicos y enfermeras que, por lo que parece, estarán bastante ocupados en las próximas semanas y meses. Al mismo tiempo, esperamos darles información que les ayude a saber cuándo es el momento de obtener ayuda médica profesional. Lograr que muchas personas entiendan ese equilibrio puede marcar la diferencia en el futuro. 
 
 [![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
+
+{{ site.data.tags.breakout.begin }}
+
+Lo que esta guía no es...
+Intentamos proporcionar una gran cantidad de consejos generales útiles para tratar el tema de COVID-19 durante las diversas etapas en las que puede afectar tu hogar. Lo que no podemos hacer es proporcionar información actualizada que sea específica para el lugar donde te encuentres. Intentaremos decirte cuando creamos que necesitas buscar información local actualizada en recuadros de texto como éste.
+
+Ten en cuenta que cualquier consejo de fuentes oficiales que puedas encontrar podría estar desactualizado tan pronto como unos días después de su publicación, por lo que siempre trate de encontrar la orientación y el consejo más recientes que pueda. Consulte los medios de comunicación locales y la información de confianza en Internet. Las autoridades sanitarias locales conocen la situación donde te encuentras y deberían informar al público a través de los medios de comunicación.
+
+Dicho esto, estamos viendo varios niveles de calidad en la respuesta oficial. A veces no hay suficiente capacidad para proporcionar a todos ayuda y asesoramiento individual, por ejemplo, porque las líneas de atención telefónica y los centros de pruebas están sobrecargados. La ayuda puede no estar disponible en algunos momentos. En este texto seguiremos adelante, dándote la mejor información que encontramos en nuestra investigación. Esto no significa que pensemos que una información tan general como la de este sitio pueda ser mejor que la ayuda local de profesionales capacitados. Los capítulos avanzados de este sitio web deben ser tratados como un último recurso: son mejor que nada, pero intente por todos los medios obtener ayuda local de profesionales reales.
+
+También tenga en cuenta que no vamos a endulzar los hechos. Este sitio está escrito por y para adultos que pueden contemplar las consecuencias de nuestra actual situación global. No hay razón para el pánico, pero la situación es lo suficientemente grave como para que todos tengan acceso a la mejor información que podamos encontrar.
+
+{{ site.data.tags.breakout.end }}
 
 Esta guía contiene consejos generales que deberían ser aplicables en muchos lugares. Podemos añadir información específica de ciertos países o regiones, pero debes estar atento a información más específica de otras fuentes creíbles que sea más local en el lugar donde te encuentres.
 
