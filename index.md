@@ -14,11 +14,11 @@ La información en este sitio web se proporciona con fines informativos solament
 
 Cuando empezamos a escribir para este sitio en Berlín, Alemania, en la segunda semana de marzo de 2020, todavía mucho no estaba claro sobre el virus, pero el número de infectados y muertos aumentaba constantemente, más recientemente en Italia. Aunque no es ahora - ni nunca - un buen momento para el pánico, creemos que es hora de pensar y prepararse.
 
-![](/images/virus.png)
+![](/assets/images/virus.png)
 
 Esta guía se basa en la suposición de que en los próximos meses, más gente de lo habitual se enfermará o tendrá personas enfermas en sus vidas. Esperemos lo mejor, pero vamos a asumir que los médicos y los hospitales van a estar muy ocupados, si no sobrecargados. Tenemos que enfrentarnos a la posibilidad de que algunas de las personas que normalmente serían atendidas bajo supervisión médica necesiten ser atendidas en casa. Esperamos que parte de la información aquí contenida les dé cierta confianza en el tratamiento de esta enfermedad, que por sí misma reducirá la carga de los médicos y enfermeras que, por lo que parece, estarán bastante ocupados en las próximas semanas y meses. Al mismo tiempo, esperamos darles información que les ayude a saber cuándo es el momento de obtener ayuda médica profesional. Lograr que muchas personas entiendan ese equilibrio puede marcar la diferencia en el futuro. 
 
-[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
+[![](/assets/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
 
 {{ site.data.tags.breakout.begin }}
 

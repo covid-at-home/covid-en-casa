@@ -33,7 +33,7 @@ Cuente las respiraciones por minuto manteniendo la mano lo suficientemente cerca
 
 La atención domiciliaria inmediata para los problemas respiratorios puede incluir la ventilación de la habitación del paciente y ayudar al paciente a sentarse en una posición de descanso vertical pero cómoda. También es una buena idea elevar la cabecera de la cama para dormir si es posible, y hay algunas posiciones para dormir que también pueden facilitar la respiración (ver Nivel 3, Trabajo de cuidados).
 
-![](/images/dyspnoe.png)
+![](/assets/images/dyspnoe.png)
 
 Si usted o el paciente experimentan falta de aliento o respiración dificultosa, busque contacte a su médico. 
 
@@ -41,17 +41,17 @@ Si usted o el paciente experimentan falta de aliento o respiración dificultosa,
 
 Si tiene un oxímetro (ver [página de compras](/compras)), cualquier saturación de oxígeno inferior al 95% puede indicar un problema respiratorio. Si en cualquier momento los labios o las puntas de los dedos del paciente se ponen azules (o incluso ligeramente azules) (lo que se llama cianosis), ¡llame a una ambulancia! Cualquier cosa menos del 96%, deje entrar aire fresco en la habitación del paciente, y ayúdele a mantenerse caliente.
 
-![](/images/cyanosis.png)
+![](/assets/images/cyanosis.png)
 
 (También llame a un médico si los dedos de las manos, los pies o los labios se ponen menos azules que esto...)
 
 Si la piel del paciente tiene una capa púrpura de encaje (también llamada livedo reticularis) como la de abajo (y eso no es normal para el paciente), también es una razón para pedir ayuda.
 
-![](/images/livedo-reticularis.png)
+![](/assets/images/livedo-reticularis.png)
 
 ### Presión sanguínea muy baja
 
-La presión sanguínea inferior al rango normal (90 mmHg sistólica, 60 mmHg diastólica) es motivo de preocupación. Observe que la presión sanguínea viene en dos números, la presión sistólica y la diastólica. Si tienes un aparato automático barato, debería decirte estos dos números. Si tiene un dispositivo, anote la presión sistólica en el [formulario del diario](/images/covid-diary.pdf).
+La presión sanguínea inferior al rango normal (90 mmHg sistólica, 60 mmHg diastólica) es motivo de preocupación. Observe que la presión sanguínea viene en dos números, la presión sistólica y la diastólica. Si tienes un aparato automático barato, debería decirte estos dos números. Si tiene un dispositivo, anote la presión sistólica en el [formulario del diario](/assets/images/covid-diary.pdf).
 
 Si no tiene un dispositivo para medir la presión sanguínea o tiene problemas para obtener una lectura, intente probar el tiempo de recarga capilar del paciente en su lugar. Compruébelo colocando sus dedos planos sobre una superficie dura. Use su dedo para presionar una de sus uñas desde arriba. La uña debería perder color. Comprueba cuánto tiempo tarda la uña en volver a su color normal. Debería tomar 1 ó 2 segundos. Más tiempo que eso puede indicar baja presión sanguínea. También podría ser un síntoma de deshidratación. 
 

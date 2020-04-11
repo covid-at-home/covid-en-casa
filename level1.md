@@ -35,7 +35,7 @@ Recuerde que no hay diferencia en el potencial de infección entre amigos y extr
 
 ### Mantente saludable
 
-![](/images/situps.png)
+![](/assets/images/situps.png)
 
 Además, puedes hacer cosas para mantenerte lo más saludable posible:
 

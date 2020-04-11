@@ -8,7 +8,7 @@ Si incluimos ejemplos (generalmente en la versión alemana de Amazon), esto no e
 
 * **Termómetro de fiebre** (2-10 EUR/USD) ([ejemplo](https://www.amazon.de/gp/product/B001NYHXYS))
 
-   > ![](/images/thermometer.png)
+   > ![](/assets/images/thermometer.png)
    >
    > Tan importante que probablemente deberías comprobar el tuyo si ha estado guardado durante años. ¿Sigue estando bien la batería? Realmente no duele tener dos, por si acaso. Con tan sólo 2-10 dólares, serían un excelente regalo (y como pueden ser insertados analmente para obtener una medida más precisa, pueden no ser artículos que quieras prestar a alguien).
 
@@ -26,28 +26,28 @@ Si incluimos ejemplos (generalmente en la versión alemana de Amazon), esto no e
 ### Opcional, pero recomendado
 
 * **Oxímetro de pulso** (20-25 EUR/USD) ([ejemplo](https://www.amazon.de/gp/product/B07P3ZS6L3))
-   > ![](/images/pulse-oxi.png)
+   > ![](/assets/images/pulse-oxi.png)
    >
    > Pequeño aparato que se sujeta en el dedo y muestra la frecuencia cardíaca (que también es fácil de medir de otras maneras) y la saturación de oxígeno en la sangre (que es difícil de medir de otra manera).
 
 * **Medidor de presión sanguínea** (20 EUR/USD más o menos) ([ejemplo](https://www.amazon.de/gp/product/B07KY867ZH))
-   > ![](/images/blood-pressure.png)
+   > ![](/assets/images/blood-pressure.png)
    >
    > Hay trucos sencillos para ver si la tensión arterial de alguien está bajando demasiado (ver el texto principal de este sitio). Sin embargo, no hace daño ser capaz de medir esto más objetivamente, especialmente si quieres ver/mostrar una tendencia en la presión sanguínea del paciente.
 
 * **Sábanas de incontinencia / impermeables** (20 EUR/USD más o menos) ([ejemplo](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) o [ejemplo](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
-   > ![](/images/sheet.png)
+   > ![](/assets/images/sheet.png)
    >
    > Los enfermos a veces tienen accidentes. Nos lo agradecerás.
 
 * **Inhalador de vapor** (25 EUR/USD más o menos) ([ejemplo](https://www.amazon.de/gp/product/B07SNQH6CZ))
-   > ![](/images/steam.png)
+   > ![](/assets/images/steam.png)
    >
    > A menudo se venden como "sauna facial" o cualquier otro nombre, son sólo dispositivos que producen vapor que no es demasiado caliente para respirar. Cualquier otro método que produzca vapor también está bien, sólo asegúrate de no causar daños con vapor demasiado caliente. El dispositivo toma agua desmineralizada ([ejemplo](https://www.amazon.de/gp/product/B07J5Y95MQ)), especialmente en lugares donde el agua del grifo tiene un alto contenido de calcio. 
    > **Advertencia:** Los dispositivos cálidos y húmedos son excelentes medios de propagación del virus. Use el dispositivo para una sola persona enferma a la vez o al menos, aseguré limpiarlo meticulosamente.
 
 * **Vitaminas** (unos pocos EUR/USD) ([ejemplo](https://www.amazon.de/dp/B07S63PCZK))
-   > ![](/images/multi-vitamin.png)
+   > ![](/assets/images/multi-vitamin.png)
    >
    > Para cuando el paciente ya no come (mucho) pero aún así bebe. Tal vez tomar las píldoras multivitamínicas que efervescentes en el agua, un par de tubos de esos. Intenta conseguir unos que contengan aproximadamente 1-2 veces la dosis.
 
@@ -69,7 +69,7 @@ También está el hecho de que algunas personas han estado comprando con pánico
 A la hora de la verdad, tendrás que tomar tus propias decisiones en cuanto al nivel de protección que es apropiado en tu situación. 
 
 * **Máscara médica, preferiblemente N95** (unos pocos EUR/USD)
-   > ![](/images/mask.png)
+   > ![](/assets/images/mask.png)
    >
    > También se recomiendan los respiradores FFP2 o FFP3. Una mascarilla facial normal (quirúrgica o de procedimiento) es mejor que nada si no puedes conseguir un respirador. Observe que los respiradores vienen en versión con y sin válvula. La válvula (a menudo una cosita redonda de plástico) deja salir el aire exhalado sin filtrar. Esto está bien si estás pintando con spray, y puede estar bien si estás protegiendo a una persona sana de una persona enferma conocida, pero bajo ninguna circunstancia el enfermo debe usar una versión con válvula. 
 
@@ -78,8 +78,8 @@ A la hora de la verdad, tendrás que tomar tus propias decisiones en cuanto al n
    > Lo mejor es si puedes encontrar un vestido de manga larga, resistente al agua. 
 
 * **Guantes** (menos de un EUR/USD) ([ejemplo](https://www.amazon.de/dp/B01LWJ80C7))
-   > ![](/images/gloves.png)
+   > ![](/assets/images/gloves.png)
 
 * **Protección de los ojos, gafas o protector facial** (unos pocos EUR/USD) ([ejemplo](https://www.amazon.de/dp/B002THV25Y))
-   > ![](/images/glasses.png)
+   > ![](/assets/images/glasses.png)
    >

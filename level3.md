@@ -10,7 +10,7 @@ Este es el momento cuando empiezas a decirle a los que te rodean que estás muy 
 
 ### En cualquier caso...
 
-* Quédate en la cama. En este momento el descanso es muy importante. El paciente debe dormir tanto como sea posible. Al menos al principio, los pacientes podrán salir de la cama durante un tiempo limitado. Inodoro, una ducha rápida, recuerde tomar nota de su peso diario (nota en [diario](/images/covid-diary.pdf)). Ponga sábanas nuevas en la cama tan a menudo como sea posible y lave las viejas a 60 grados Celsius o más.
+* Quédate en la cama. En este momento el descanso es muy importante. El paciente debe dormir tanto como sea posible. Al menos al principio, los pacientes podrán salir de la cama durante un tiempo limitado. Inodoro, una ducha rápida, recuerde tomar nota de su peso diario (nota en [diario](/assets/images/covid-diary.pdf)). Ponga sábanas nuevas en la cama tan a menudo como sea posible y lave las viejas a 60 grados Celsius o más.
 * Ventile la habitación tan a menudo como sea posible.
 * ¡Bebe más agua! (más de 2 litros y menos de 5 litros al día).
 * Intenta comer alimentos ricos en vitaminas, pero también puedes tomar bebidas multivitamínicas.
@@ -36,7 +36,7 @@ Algunos comportamientos posiblemente útiles incluyen:
 
 ### Diario de la enfermedad
 
-Como se mencionó en la sección anterior, tal vez quieras usar este [formulario imprimible](/images/covid-diary.pdf), o hacer el tuyo propio. 
+Como se mencionó en la sección anterior, tal vez quieras usar este [formulario imprimible](/assets/images/covid-diary.pdf), o hacer el tuyo propio. 
 
 En esta etapa, debes estar atento especialmente a los síntomas que puedan sugerir un empeoramiento. Lee la siguiente sección para obtener más detalles, pero los síntomas incluyen mareos o frecuencia cardíaca rápida (beba más y coma algo si puede), respiración rápida (eleve la cabeza mientras está acostado o bájela hasta la mesa mientras está sentado para respirar más fácilmente) y un tinte azul en las puntas de los dedos o los labios (cianosis - tome aire fresco, póngase caliente y compruebe la oxigenación de la sangre si es posible). Considere también la posibilidad de utilizar técnicas de relajación para disminuir una respiración o frecuencia cardíaca rápidas que pueden deberse parcialmente a la ansiedad: Escuche música relajante, consulte a un amigo en línea, o vea si puede disminuir su respiración y reducir su ritmo cardíaco contando más tiempo para la exhalación forzada que para la inhalación suave. (Algunas personas usan 4-7-8 y otras prefieren 5-2-5 para tratar de disminuir sus patrones de inhalación y exhalación).
 
